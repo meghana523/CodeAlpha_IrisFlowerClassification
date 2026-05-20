@@ -103,13 +103,3 @@ Open the notebook in Google Colab or Jupyter Notebook and run all cells.
 
 ## 📌 Conclusion
 This project demonstrates the implementation of a Machine Learning classification model using the Iris dataset. The model successfully predicts flower species with high accuracy and helps understand the basics of supervised machine learning.
-
----
-
-## 🔗 GitHub Repository
-(Add Your GitHub Repository Link Here)
-
----
-
-## 👩‍💻 Author
-Maggie
