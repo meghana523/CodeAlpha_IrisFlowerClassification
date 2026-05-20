@@ -82,10 +82,10 @@ The model achieved high accuracy on the testing dataset.
 ![Pairplot](Screenshots/pairplot.png)
 
 ### Confusion Matrix
-(Add Screenshot Here)
+![Confusion Matrix](Screenshots/confusion_matrix.png)
 
 ### Accuracy Output
-(Add Screenshot Here)
+![Accuracy](Screenshots/accuracy.png)
 
 ---
 
