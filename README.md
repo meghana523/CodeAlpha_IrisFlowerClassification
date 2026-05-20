@@ -79,7 +79,7 @@ The model achieved high accuracy on the testing dataset.
 ## 📷 Output Screenshots
 
 ### Pairplot Visualization
-![Pairplot](screenshots/pairplot.png)
+![Pairplot](Screenshots/pairplot.png)
 
 ### Confusion Matrix
 (Add Screenshot Here)
